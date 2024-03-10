@@ -205,12 +205,12 @@ Other                  18 hrs 57 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)  
 
-**本科期间项目: ⬇️**
+**本科期间编写的开源项目: ⬇️**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ysuauth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ysuauth)](https://github.com/a645162/ysuauth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![KDEHighDPI](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=KDEHighDPI)](https://github.com/a645162/KDEHighDPI)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MarkdownTools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=MarkdownTools)](https://github.com/a645162/MarkdownTools)
 
-**硕士期间项目: ⬇️**
+**硕士期间编写的开源项目: ⬇️**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvidia-smi-webhook-notify](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvidia-smi-webhook-notify)](https://github.com/a645162/nvidia-smi-webhook-notify)
 
