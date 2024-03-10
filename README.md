@@ -116,7 +116,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162" width="343" height="220" title="Do what you like, and do it best!">
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162" width="350" height="400" title="Do what you like, and do it best!">
 
 **Languages**
 
