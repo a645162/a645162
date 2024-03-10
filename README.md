@@ -116,16 +116,7 @@
 
 <br />
 
-<div style="float: right; text-align: right;">  
-  <img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162" width="300" style="margin-bottom: 10px;" title="Do what you like, and do it best!">
-
-  <img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162&layout=compact" width="300" style="margin-bottom: 10px;" title="Do what you like, and do it best!">  
-</div>  
-
-<!-- <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162" width="343" height="220" title="Do what you like, and do it best!">
-
-
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162&layout=compact" width="250" title="Do what you like, and do it best!"> -->
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162" width="343" height="220" title="Do what you like, and do it best!">
 
 **Languages**
 
