@@ -83,7 +83,7 @@
       <img src="https://img.shields.io/badge/Desktop-KDE-1D99F3?style=flat-square&logo=kde&logoColor=1D99F3">
   </a>
   <a href="https://github.com/a645162">
-        <img src="https://img.shields.io/badge/Desktop-XFCE-2284F2?style=flat-square&logo=xfce&logoColor=2284F2">
+        <img src="https://img.shields.io/badge/Desktop-Deepin-007CFF?style=flat-square&logo=deepin&logoColor=007CFF">
   </a>
 </p>
 
@@ -116,31 +116,49 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162" width="343" height="220" title="Do what you like, and do it best!">
+<div style="float: right; text-align: right;">  
+  <img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162" width="300" style="margin-bottom: 10px;" title="Do what you like, and do it best!">
 
-**Languages and Frameworks**
+  <img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162&layout=compact" width="300" style="margin-bottom: 10px;" title="Do what you like, and do it best!">  
+</div>  
+
+<!-- <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162" width="343" height="220" title="Do what you like, and do it best!">
+
+
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162&layout=compact" width="250" title="Do what you like, and do it best!"> -->
+
+**Languages**
 
 <code><img height="20" src="https://simpleicons.org/icons/c.svg" alt="C" title="C"></code>
 <code><img height="20" src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" title="C++"></code>
 <code><img height="20" src="https://simpleicons.org/icons/csharp.svg" alt="C#" title="C#"></code>
 <code><img height="20" src="https://simpleicons.org/icons/python.svg" alt="Python" title="Python"></code>
+<code><img height="20" src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" title="Kotlin"></code>
 <code><img height="20" src="https://simpleicons.org/icons/json.svg" alt="JSON" title="JSON"></code>
+<code><img height="20" src="https://simpleicons.org/icons/markdown.svg" alt="Markdown" title="MarkDown"></code>
+
+**Framework**
+
+<code><img height="20" src="https://simpleicons.org/icons/pytorch.svg" alt="PyTorch" title="PyTorch"></code>
+<code><img height="20" src="https://simpleicons.org/icons/opencv.svg" alt="OpenCV" title="OpenCV"></code>
+<code><img height="20" width="22" src="https://simpleicons.org/icons/qt.svg" alt="Qt" title="Qt"></code>
+<code><img height="20" src="https://simpleicons.org/icons/docker.svg" alt="Docker" title="Docker"></code>
 <code><img height="20" src="https://simpleicons.org/icons/git.svg" alt="Git" title="Git"></code>
 <code><img height="20" src="https://simpleicons.org/icons/sqlite.svg" alt="SQLite" title="SQLite"></code>
 <code><img height="20" src="https://simpleicons.org/icons/django.svg" alt="Django" title="Django"></code>
-<code><img height="20" width="22" src="https://simpleicons.org/icons/qt.svg" alt="Qt" title="Qt"></code>
-<code><img height="20" src="https://simpleicons.org/icons/docker.svg" alt="Docker" title="Docker"></code>
-<code><img height="20" src="https://simpleicons.org/icons/pytorch.svg" alt="PyTorch" title="PyTorch"></code>
 
-**Tools and Environments**
+**IDE/Editor**
 
 <code><img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://simpleicons.org/icons/armkeil.svg" alt="ARM-Keil" title="ARM-Keil"></code>
 <code><img height="20" src="https://simpleicons.org/icons/clion.svg" alt="CLion" title="CLion"></code>
 <code><img height="20" src="https://simpleicons.org/icons/pycharm.svg" alt="PyCharm" title="PyCharm"></code>
-<code><img height="20" src="https://simpleicons.org/icons/opencv.svg" alt="OpenCV" title="OpenCV"></code>
+<code><img height="20" src="https://simpleicons.org/icons/armkeil.svg" alt="ARM-Keil" title="ARM-Keil"></code>
 <code><img height="20" src="https://simpleicons.org/icons/vim.svg" alt="Vim" title="Vim"></code>
-<code><img height="20" src="https://simpleicons.org/icons/markdown.svg" alt="Markdown" title="MarkDown"></code>
+
+**Environments**
+
+<code><img height="20" src="https://simpleicons.org/icons/windows.svg" alt="Windows" title="Windows"></code>
+<code><img height="20" src="https://simpleicons.org/icons/archlinux.svg" alt="Arch Linux" title="Arch Linux"></code>
 <code><img height="20" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="20" src="https://simpleicons.org/icons/apple.svg" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://simpleicons.org/icons/linux.svg" alt="Linux" title="Linux"></code>
