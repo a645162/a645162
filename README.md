@@ -55,21 +55,51 @@
 
 <br />
 
+**Using Devices:**
+
 <p align="center">
+  <a href="https://github.com/a645162">
+    <img src="https://img.shields.io/badge/Microsoft-Windows-0078D4?style=flat-square&logo=Windows&logoColor=ffffff">
+  </a>
+</p>
 
+<p align="center">
   <a href="https://github.com/a645162">
-    <img src="https://img.shields.io/badge/OS-Windows-007bd6?style=flat-square&logo=Windows&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff">
   </a>
   <a href="https://github.com/a645162">
-      <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/ARM-Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=ffffff">
   </a>
   <a href="https://github.com/a645162">
-        <img src="https://img.shields.io/badge/OS-Arch Linux-007bd6?style=flat-square&logo=ArchLinux&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Linux-Arch Linux-1793D1?style=flat-square&logo=ArchLinux&logoColor=ffffff">
   </a>
-  <a href="https://github.com/a645162">
-    <img src="https://img.shields.io/badge/Xiaomi-MIX3-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff">
-  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/a645162">
+    <img src="https://img.shields.io/badge/iPhone-7 Plus-111111?style=flat-square&logo=apple&logoColor=ffffff">
+  </a>
+  <a href="https://github.com/a645162">
+    <img src="https://img.shields.io/badge/Apple-macOS-111111?style=flat-square&logo=apple&logoColor=ffffff">
+  </a>
+  <a href="https://github.com/a645162">
+      <img src="https://img.shields.io/badge/MacBook-Pro 2018-111111?style=flat-square&logo=apple&logoColor=ffffff">
+  </a>
+  <a href="https://github.com/a645162">
+    <img src="https://img.shields.io/badge/iPad-Pro 2018-111111?style=flat-square&logo=apple&logoColor=ffffff">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/a645162">
+    <img src="https://img.shields.io/badge/Redmi-K50 Ultra-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff">
+  </a>
+  <a href="https://github.com/a645162">
+      <img src="https://img.shields.io/badge/LG-G8-A50034?style=flat-square&logo=lg&logoColor=ffffff">
+  </a>
+  <a href="https://github.com/a645162">
+      <img src="https://img.shields.io/badge/Android-14-FF6900?style=flat-square&logo=android&logoColor=ffffff">
+  </a>
 </p>
 
 <br />
