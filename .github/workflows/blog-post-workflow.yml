@@ -1,0 +1,49 @@
+name: Latest blog post workflow
+
+on: 
+  watch:
+    types: started
+  schedule: # Run workflow automatically
+    - cron: '0 13 * * 4' # 13:00 every Thu
+  repository_dispatch: 
+    types: [special_repository]
+  workflow_dispatch:
+
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-readme-with-csdn:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: "git config"
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+      - name: Pull csdn blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://blog.csdn.net/a645162/rss/list?spm=1001.2014.3001.5494"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url)"
+          max_post_count: 5
+          date_format: mmm d, yyyy
+  
+  update-readme-with-zhihu:
+    name: Update this repo's README with latest zhihu posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: "git config"
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+      - name: Pull zhihu posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.zhihu.com/rss/people/khm123"
+          comment_tag_name: "ZHIHU-POST-LIST"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date"
+          max_post_count: 5
+          date_format: mmm d, yyyy

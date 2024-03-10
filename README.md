@@ -60,6 +60,28 @@ Shell                  3 hrs 55 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 <!--END_SECTION:waka-->
 
+<sup>CSDN的近期动态（点个 [Star](https://github.com/a645162/a645162) 将触发自动刷新）</sup>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<sup>知乎的近期动态（点个 [Star](https://github.com/a645162/a645162) 将触发自动刷新）</sup>
+<!-- ZHIHU-POST-LIST:START -->
+<!-- ZHIHU-POST-LIST:END -->
+
+**为上海海事大学(课题组)开发的项目: ⬇️**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvidia-smi-webhook-notify](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvidia-smi-webhook-notify)](https://github.com/a645162/nvidia-smi-webhook-notify)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Digital-SHMTU-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Digital-SHMTU-Tools)](https://github.com/a645162/Digital-SHMTU-Tools)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Beamer-Theme](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme)](https://github.com/a645162/SHMTU-Beamer-Theme)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)
+
+
+🚧 **My Todoist Stats: ⬇️**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)  
+
 **本科期间项目: ⬇️**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ysuauth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ysuauth)](https://github.com/a645162/ysuauth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![KDEHighDPI](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=KDEHighDPI)](https://github.com/a645162/KDEHighDPI)
@@ -74,8 +96,3 @@ Shell                  3 hrs 55 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Nvidia-Tesla-WDDM-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Nvidia-Tesla-WDDM-Tools)](https://github.com/a645162/Nvidia-Tesla-WDDM-Tools)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Beamer-Theme](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme)](https://github.com/a645162/SHMTU-Beamer-Theme)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![HomeWorkNewYearVideo](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=HomeWorkNewYearVideo)](https://github.com/a645162/HomeWorkNewYearVideo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)
-
-🚧 **My Todoist Stats: ⬇️**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)  
