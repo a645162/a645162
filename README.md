@@ -45,40 +45,64 @@
   <a href="https://github.com/a645162?tab=repositories">
     <img src="https://badges.strrl.dev/repos/a645162?style=flat-square&color=pink&logo=github">
   </a>
-  <a href="https://gist.github.com/a645162">
+  <!-- <a href="https://gist.github.com/a645162">
     <img src="https://badges.strrl.dev/gists/a645162?style=flat-square&color=pink&logo=github">
-  </a>
+  </a> -->
   <a href="https://github.com/a645162">
     <img src="https://badges.strrl.dev/commits/monthly/a645162?style=flat-square&color=pink&logo=github">
   </a>
 </p>
 
+<br />
+
+<p align="center">
+
+  <a href="https://github.com/a645162">
+    <img src="https://img.shields.io/badge/OS-Windows-007bd6?style=flat-square&logo=Windows&logoColor=ffffff">
+  </a>
+  <a href="https://github.com/a645162">
+      <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff">
+  </a>
+  <a href="https://github.com/a645162">
+        <img src="https://img.shields.io/badge/OS-Arch Linux-007bd6?style=flat-square&logo=ArchLinux&logoColor=ffffff">
+  </a>
+  <a href="https://github.com/a645162">
+    <img src="https://img.shields.io/badge/Xiaomi-MIX3-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff">
+  </a>
+
+</p>
+
+<br />
+
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162" width="343" height="220" title="Do what you like, and do it best!">
 
 **Languages and Frameworks**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218292066-c36545bd-47ac-4838-8958-1399009c3cc8.png" alt="SQLite" title="SQLite"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291286-3d84ebcb-c266-454b-bce2-b2f4ac01886f.png" alt="Django" title="Django"></code>
-<code><img height="20" width="22" src="https://user-images.githubusercontent.com/29084184/183043709-bf66d400-014c-4332-861a-7edc5ae610b9.png" alt="Qt" title="Qt"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="src/assert/icons/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
+<code><img height="20" src="https://simpleicons.org/icons/c.svg" alt="C" title="C"></code>
+<code><img height="20" src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" title="C++"></code>
+<code><img height="20" src="https://simpleicons.org/icons/csharp.svg" alt="C#" title="C#"></code>
+<code><img height="20" src="https://simpleicons.org/icons/python.svg" alt="Python" title="Python"></code>
+<code><img height="20" src="https://simpleicons.org/icons/json.svg" alt="JSON" title="JSON"></code>
+<code><img height="20" src="https://simpleicons.org/icons/git.svg" alt="Git" title="Git"></code>
+<code><img height="20" src="https://simpleicons.org/icons/sqlite.svg" alt="SQLite" title="SQLite"></code>
+<code><img height="20" src="https://simpleicons.org/icons/django.svg" alt="Django" title="Django"></code>
+<code><img height="20" width="22" src="https://simpleicons.org/icons/qt.svg" alt="Qt" title="Qt"></code>
+<code><img height="20" src="https://simpleicons.org/icons/docker.svg" alt="Docker" title="Docker"></code>
+<code><img height="20" src="https://simpleicons.org/icons/pytorch.svg" alt="PyTorch" title="PyTorch"></code>
 
 **Tools and Environments**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
-<code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
-<code><img height="20" src="https://docs.opencv.org/4.x/opencv-logo-small.png" alt="OpenCV" title="OpenCV"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-    
+<code><img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="https://simpleicons.org/icons/armkeil.svg" alt="ARM-Keil" title="ARM-Keil"></code>
+<code><img height="20" src="https://simpleicons.org/icons/clion.svg" alt="CLion" title="CLion"></code>
+<code><img height="20" src="https://simpleicons.org/icons/pycharm.svg" alt="PyCharm" title="PyCharm"></code>
+<code><img height="20" src="https://simpleicons.org/icons/opencv.svg" alt="OpenCV" title="OpenCV"></code>
+<code><img height="20" src="https://simpleicons.org/icons/vim.svg" alt="Vim" title="Vim"></code>
+<code><img height="20" src="https://simpleicons.org/icons/markdown.svg" alt="Markdown" title="MarkDown"></code>
+<code><img height="20" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu" title="Ubuntu"></code>
+<code><img height="20" src="https://simpleicons.org/icons/apple.svg" alt="MacOS" title="MacOS"></code>
+<code><img height="20" src="https://simpleicons.org/icons/linux.svg" alt="Linux" title="Linux"></code>
+
 <br />
 <br />
 
