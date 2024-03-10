@@ -59,19 +59,31 @@
 
 <p align="center">
   <a href="https://github.com/a645162">
-    <img src="https://img.shields.io/badge/Microsoft-Windows-0078D4?style=flat-square&logo=Windows&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/Microsoft-Windows-0078D4?style=flat-square&logo=Windows&logoColor=0078D4">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/a645162">
-      <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=E95420">
   </a>
   <a href="https://github.com/a645162">
-      <img src="https://img.shields.io/badge/ARM-Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/ARM-Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=A22846">
   </a>
   <a href="https://github.com/a645162">
-        <img src="https://img.shields.io/badge/Linux-Arch Linux-1793D1?style=flat-square&logo=ArchLinux&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Linux-Arch Linux-1793D1?style=flat-square&logo=ArchLinux&logoColor=1793D1">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/a645162">
+      <img src="https://img.shields.io/badge/Desktop-Gnome-4A86CF?style=flat-square&logo=Gnome&logoColor=4A86CF">
+  </a>
+  <a href="https://github.com/a645162">
+      <img src="https://img.shields.io/badge/Desktop-KDE-1D99F3?style=flat-square&logo=kde&logoColor=1D99F3">
+  </a>
+  <a href="https://github.com/a645162">
+        <img src="https://img.shields.io/badge/Desktop-XFCE-2284F2?style=flat-square&logo=xfce&logoColor=2284F2">
   </a>
 </p>
 
@@ -92,13 +104,13 @@
 
 <p align="center">
   <a href="https://github.com/a645162">
-    <img src="https://img.shields.io/badge/Redmi-K50 Ultra-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/Redmi-K50 Ultra-FF6900?style=flat-square&logo=Xiaomi&logoColor=FF6900">
   </a>
   <a href="https://github.com/a645162">
-      <img src="https://img.shields.io/badge/LG-G8-A50034?style=flat-square&logo=lg&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/LG-G8-A50034?style=flat-square&logo=lg&logoColor=A50034">
   </a>
   <a href="https://github.com/a645162">
-      <img src="https://img.shields.io/badge/Android-14-FF6900?style=flat-square&logo=android&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/Android-14-FF6900?style=flat-square&logo=android&logoColor=FF6900">
   </a>
 </p>
 
