@@ -2,7 +2,7 @@
 
 <h2>欢迎来访我的GitHub </h2>
 
-我的名字是`孔昊旻(Haomin Kong)`
+我的名字(Name)是孔昊旻(Haomin Kong)
 
 - 🌱 I’m currently learning in Shanghai Maritime University
 - 💬 Ask me about `Embedded Develop`/`GUI Develop`
@@ -191,7 +191,7 @@ Other                  18 hrs 57 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 - 🙉 [椭圆方程中离心率明明可以用b／a表示，为什么用c／a来表示？](http://www.zhihu.com/question/345832892?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-823202191) | Sep 14, 2019
 - 🥷 [怎么强行让电脑不能联网？](http://www.zhihu.com/question/344085028?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-814715179) | Sep 5, 2019<!-- ZHIHU-POST-LIST:END -->
 
-**为上海海事大学(课题组)开发的项目: ⬇️**
+**🚢🏫为上海海事大学(课题组)开发的项目: ⬇️**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvidia-smi-webhook-notify](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvidia-smi-webhook-notify)](https://github.com/a645162/nvidia-smi-webhook-notify)
 
@@ -199,18 +199,21 @@ Other                  18 hrs 57 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)
 
+**🚢🏫推荐上海海事大学本科生了解的项目: ⬇️**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![smu_course_election_helper](https://github-readme-stats.vercel.app/api/pin/?username=EricHongXDD&repo=smu_course_election_helper)](https://github.com/EricHongXDD/smu_course_election_helper)
 
 🚧 **My Todoist Stats: ⬇️**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)  
 
-**本科期间编写的开源项目: ⬇️**
+**🏫本科期间编写的开源项目: ⬇️**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ysuauth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ysuauth)](https://github.com/a645162/ysuauth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![KDEHighDPI](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=KDEHighDPI)](https://github.com/a645162/KDEHighDPI)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MarkdownTools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=MarkdownTools)](https://github.com/a645162/MarkdownTools)
 
-**硕士期间编写的开源项目: ⬇️**
+**🏫硕士期间编写的开源项目: ⬇️**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvidia-smi-webhook-notify](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvidia-smi-webhook-notify)](https://github.com/a645162/nvidia-smi-webhook-notify)
 
