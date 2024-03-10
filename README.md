@@ -82,7 +82,7 @@
 <br />
 <br />
 
-📊 **This Month I Spent My Time On:**
+📊 **Last 365 days I Spent My Time On:**
 <!--START_SECTION:waka-->
 
 ```txt
