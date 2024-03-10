@@ -191,6 +191,14 @@ Other                  18 hrs 57 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 - 🙉 [椭圆方程中离心率明明可以用b／a表示，为什么用c／a来表示？](http://www.zhihu.com/question/345832892?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-823202191) | Sep 14, 2019
 - 🥷 [怎么强行让电脑不能联网？](http://www.zhihu.com/question/344085028?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-814715179) | Sep 5, 2019<!-- ZHIHU-POST-LIST:END -->
 
+**欢迎诸位同学为SHMTU多多贡献项目！！！！！**
+
+海狮的信息化程度很高，许多服务都是数字化的，
+因此我们可以使用这些接口开发一些软件，
+欢迎诸位同学为海狮贡献一些项目！！！！！
+
+如果您内心有想法，可以咨询我，我可以给出一些建议。
+
 **🚢🏫为上海海事大学(课题组)开发的项目: ⬇️**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvidia-smi-webhook-notify](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvidia-smi-webhook-notify)](https://github.com/a645162/nvidia-smi-webhook-notify)
