@@ -62,45 +62,20 @@ Shell                  3 hrs 55 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 **本科期间项目: ⬇️**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![ysuauth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ysuauth)](https://github.com/a645162/ysuauth)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![KDEHighDPI](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=KDEHighDPI)](https://github.com/a645162/KDEHighDPI)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![MarkdownTools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=MarkdownTools)](https://github.com/a645162/MarkdownTools)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ysuauth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ysuauth)](https://github.com/a645162/ysuauth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![KDEHighDPI](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=KDEHighDPI)](https://github.com/a645162/KDEHighDPI)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MarkdownTools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=MarkdownTools)](https://github.com/a645162/MarkdownTools)
 
 **硕士期间项目: ⬇️**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvidia-smi-webhook-notify](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvidia-smi-webhook-notify)](https://github.com/a645162/nvidia-smi-webhook-notify)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![nvidia-smi-webhook-notify](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvidia-smi-webhook-notify)](https://github.com/a645162/nvidia-smi-webhook-notify)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![QQChatConvertR](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=QQChatConvertR)](https://github.com/a645162/QQChatConvertR)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Digital-SHMTU-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Digital-SHMTU-Tools)](https://github.com/a645162/Digital-SHMTU-Tools)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![QQChatConvertR](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=QQChatConvertR)](https://github.com/a645162/QQChatConvertR)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Nvidia-Tesla-WDDM-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Nvidia-Tesla-WDDM-Tools)](https://github.com/a645162/Nvidia-Tesla-WDDM-Tools)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Beamer-Theme](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme)](https://github.com/a645162/SHMTU-Beamer-Theme)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Digital-SHMTU-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Digital-SHMTU-Tools)](https://github.com/a645162/Digital-SHMTU-Tools)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Nvidia-Tesla-WDDM-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Nvidia-Tesla-WDDM-Tools)](https://github.com/a645162/Nvidia-Tesla-WDDM-Tools)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![SHMTU-Beamer-Theme](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme)](https://github.com/a645162/SHMTU-Beamer-Theme)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![HomeWorkNewYearVideo](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=HomeWorkNewYearVideo)](https://github.com/a645162/HomeWorkNewYearVideo)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![HomeWorkNewYearVideo](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=HomeWorkNewYearVideo)](https://github.com/a645162/HomeWorkNewYearVideo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)
 
 🚧 **My Todoist Stats: ⬇️**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)  
+[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)  
