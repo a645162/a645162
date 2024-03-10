@@ -96,7 +96,8 @@ Shell                  3 hrs 55 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 <sup>CSDN的近期动态（点个 [Star](https://github.com/a645162/a645162) 将触发自动刷新）</sup>
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🔭 [Ubuntu 22.04 下安装最新版本的 Wine](https://blog.csdn.net/a645162/article/details/131099149)
+- 💂 [Android DND&lpar;Do Not Disturb&rpar; Access API的学习](https://blog.csdn.net/a645162/article/details/87471283)<!-- BLOG-POST-LIST:END -->
 
 <sup>知乎的近期动态（点个 [Star](https://github.com/a645162/a645162) 将触发自动刷新）</sup>
 <!-- ZHIHU-POST-LIST:START -->
