@@ -11,19 +11,19 @@
 希望跟大家一起多多交流，感兴趣的可以继续看下去。
 
 <p align="center">
-  <a href="https://blog.csdn.net/Charmve" target="_blank" alt="CSDN" title="CSDN">
+  <a href="https://blog.csdn.net/a645162" target="_blank" alt="CSDN" title="CSDN">
     <img src="src/assert/icons/csdn.png" width="30px"/>
   </a>
   &emsp;
-  <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" alt="Zhihu" title="Zhihu">
+  <a href="https://www.zhihu.com/people/khm123" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="src/assert/icons/zhihu.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://space.bilibili.com/62079686" target="_blank" alt="Bilibili" title="Bilibili">
+  <a href="https://space.bilibili.com/10931556" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="src/assert/icons/bilibili.png" width="30px"/>
   </a>
   &emsp;
-  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank" alt="YouTube" title="YouTube">
+  <a href="https://www.youtube.com/channel/UC4f5q7gwzWNzDmfMTuyVp4Q" target="_blank" alt="YouTube" title="YouTube">
     <img src="src/assert/icons/youtube-play.png" width="30px"/>
   </a>
   &emsp;
@@ -49,6 +49,4 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-```
 <!--END_SECTION:waka-->
