@@ -3,7 +3,7 @@ name: WakaTime Readme
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
+    - cron: "0 22 * * *" # runs at every 22PM UTC(2AM Beijing)
 
 jobs:
   update-readme:
