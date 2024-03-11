@@ -4,8 +4,9 @@
 
 我的名字(Name)是孔昊旻(Haomin Kong)
 
-- 🌱 I’m currently learning in Shanghai Maritime University
-- 💬 Ask me about `Embedded Develop`/`GUI Develop`
+- 🌱 I'm currently pursuing a Master's degree in `Control Science and Engineering` at `Shanghai Maritime University`.
+- 🌱 Previously, I obtained a Bachelor's degree in `Applied Physics` from `Yanshan University`.
+- 💬 Ask me about `Embedded Develop`/`GUI Develop`/`Computer Simulation`
 - 📫 How to reach me: a645162@gmail.com
 
 希望跟大家一起多多交流。
@@ -57,9 +58,20 @@
 
 **Using Devices:**
 
+<!-- https://simpleicons.org/ -->
+
 <p align="center">
   <a href="https://github.com/a645162">
     <img src="https://img.shields.io/badge/Microsoft-Windows-0078D4?style=flat-square&logo=Windows&logoColor=0078D4">
+  </a>
+  <a href="https://github.com/a645162">
+      <img src="https://img.shields.io/badge/Windows-10-0078D4?style=flat-square&logo=Windows&logoColor=0078D4">
+  </a>
+  <a href="https://github.com/a645162">
+        <img src="https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=Windows&logoColor=0078D4">
+  </a>
+  <a href="https://github.com/a645162">
+    <img src="https://img.shields.io/badge/Windows-Server 2022-0078D4?style=flat-square&logo=Windows&logoColor=0078D4">
   </a>
 </p>
 
@@ -73,6 +85,9 @@
   <a href="https://github.com/a645162">
         <img src="https://img.shields.io/badge/Linux-Arch Linux-1793D1?style=flat-square&logo=ArchLinux&logoColor=1793D1">
   </a>
+  <a href="https://github.com/a645162">
+          <img src="https://img.shields.io/badge/Linux-Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=35BF5C">
+  </a>
 </p>
 
 <p align="center">
@@ -84,6 +99,9 @@
   </a>
   <a href="https://github.com/a645162">
         <img src="https://img.shields.io/badge/Desktop-Deepin-007CFF?style=flat-square&logo=deepin&logoColor=007CFF">
+  </a>
+  <a href="https://github.com/a645162">
+          <img src="https://img.shields.io/badge/Desktop-XFCE-2284F2?style=flat-square&logo=xfce&logoColor=2284F2">
   </a>
 </p>
 
@@ -107,10 +125,13 @@
     <img src="https://img.shields.io/badge/Redmi-K50 Ultra-FF6900?style=flat-square&logo=Xiaomi&logoColor=FF6900">
   </a>
   <a href="https://github.com/a645162">
+        <img src="https://img.shields.io/badge/HyperOS-1-FF6900?style=flat-square&logo=android&logoColor=FF6900">
+  </a>
+  <a href="https://github.com/a645162">
       <img src="https://img.shields.io/badge/LG-G8-A50034?style=flat-square&logo=lg&logoColor=A50034">
   </a>
   <a href="https://github.com/a645162">
-      <img src="https://img.shields.io/badge/Android-14-FF6900?style=flat-square&logo=android&logoColor=FF6900">
+      <img src="https://img.shields.io/badge/Android-12-34A853?style=flat-square&logo=android&logoColor=34A853">
   </a>
 </p>
 
@@ -149,6 +170,7 @@
 **Environments**
 
 <code><img height="20" src="https://simpleicons.org/icons/windows.svg" alt="Windows" title="Windows"></code>
+<code><img height="20" src="https://simpleicons.org/icons/manjaro.svg" alt="Arch Linux" title="Manjaro"></code>
 <code><img height="20" src="https://simpleicons.org/icons/archlinux.svg" alt="Arch Linux" title="Arch Linux"></code>
 <code><img height="20" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="20" src="https://simpleicons.org/icons/apple.svg" alt="MacOS" title="MacOS"></code>
