@@ -227,7 +227,7 @@ Other                  19 hrs          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Digital-SHMTU-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Digital-SHMTU-Tools)](https://github.com/a645162/Digital-SHMTU-Tools)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Beamer-Theme](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme)](https://github.com/a645162/SHMTU-Beamer-Theme)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU_CAS](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU_CAS)](https://github.com/a645162/SHMTU_CAS)
 
 **🚢🏫推荐上海海事大学本科生了解的项目: ⬇️**
 
