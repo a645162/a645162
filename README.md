@@ -252,3 +252,5 @@ Other                  19 hrs          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Nvidia-Tesla-WDDM-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Nvidia-Tesla-WDDM-Tools)](https://github.com/a645162/Nvidia-Tesla-WDDM-Tools)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Beamer-Theme](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme)](https://github.com/a645162/SHMTU-Beamer-Theme)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![HomeWorkNewYearVideo](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=HomeWorkNewYearVideo)](https://github.com/a645162/HomeWorkNewYearVideo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU_CAS](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU_CAS)](https://github.com/a645162/SHMTU_CAS)
