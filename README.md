@@ -229,14 +229,15 @@ Other                  19 hrs 13 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU_CAS](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU_CAS)](https://github.com/a645162/SHMTU_CAS)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Terminal-Qt](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Terminal-Qt)](https://github.com/a645162/SHMTU-Terminal-Qt)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GroupMsgCenter](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=GroupMsgCenter)](https://github.com/a645162/GroupMsgCenter)
+
 **🚢🏫推荐上海海事大学本科生了解的项目: ⬇️**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![smu_course_election_helper](https://github-readme-stats.vercel.app/api/pin/?username=EricHongXDD&repo=smu_course_election_helper)](https://github.com/EricHongXDD/smu_course_election_helper)
 
-🚧 **My Todoist Stats: ⬇️**
+🚧 **目前正在开发的项目: ⬇️**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Terminal-Qt](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Terminal-Qt)](https://github.com/a645162/SHMTU-Terminal-Qt)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GroupMsgCenter](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=GroupMsgCenter)](https://github.com/a645162/GroupMsgCenter)
 
 **🏫本科期间编写的开源项目: ⬇️**
 
