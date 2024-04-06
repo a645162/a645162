@@ -242,9 +242,13 @@ Other                  19 hrs 58 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![smu_course_election_helper](https://github-readme-stats.vercel.app/api/pin/?username=EricHongXDD&repo=smu_course_election_helper)](https://github.com/EricHongXDD/smu_course_election_helper)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Terminal-Wails](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Terminal-Wails)](https://github.com/a645162/SHMTU-Terminal-Wails)
+
 🚧 **目前正在开发的项目: ⬇️**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Terminal-Qt](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Terminal-Qt)](https://github.com/a645162/SHMTU-Terminal-Qt)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GroupMsgCenter](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=GroupMsgCenter)](https://github.com/a645162/GroupMsgCenter)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-go](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-go)](https://github.com/a645162/shmtu-cas-go)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GroupMsgCenter](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=GroupMsgCenter)](https://github.com/a645162/GroupMsgCenter)
 
 **🏫本科期间编写的开源项目: ⬇️**
 
