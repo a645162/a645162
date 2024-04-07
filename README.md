@@ -224,11 +224,11 @@ Other                  19 hrs 58 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 **🚢🏫为上海海事大学(课题组)开发的项目: ⬇️**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvidia-smi-webhook-notify](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvidia-smi-webhook-notify)](https://github.com/a645162/nvidia-smi-webhook-notify)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![group-message-center](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=group-message-center)](https://github.com/a645162/group-message-center)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Digital-SHMTU-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Digital-SHMTU-Tools)](https://github.com/a645162/Digital-SHMTU-Tools)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Beamer-Theme](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme)](https://github.com/a645162/SHMTU-Beamer-Theme)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-notify](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-notify)](https://github.com/a645162/nvi-notify)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![web-gpu-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=web-gpu-dashboard)](https://github.com/a645162/web-gpu-dashboard)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GroupMsgCenter](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=GroupMsgCenter)](https://github.com/a645162/GroupMsgCenter)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Terminal-Wails](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Terminal-Wails)](https://github.com/a645162/SHMTU-Terminal-Wails)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-go](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-go)](https://github.com/a645162/shmtu-cas-go)
 
@@ -237,6 +237,8 @@ Other                  19 hrs 58 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-ocr-model](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-ocr-model)](https://github.com/a645162/shmtu-cas-ocr-model)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-ocr-demo-windows](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-ocr-demo-windows)](https://github.com/a645162/shmtu-cas-ocr-demo-windows)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-ocr-demo-qt](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-ocr-demo-qt)](https://github.com/a645162/shmtu-cas-ocr-demo-qt)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-demo-android](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-demo-android)](https://github.com/a645162/shmtu-cas-demo-android)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Digital-SHMTU-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Digital-SHMTU-Tools)](https://github.com/a645162/Digital-SHMTU-Tools)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Beamer-Theme](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme)](https://github.com/a645162/SHMTU-Beamer-Theme)
 
 **🚢🏫推荐上海海事大学本科生了解的项目: ⬇️**
 
