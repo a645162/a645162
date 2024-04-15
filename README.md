@@ -224,7 +224,7 @@ Other                  20 hrs 26 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 **🚢🏫硕士期间为上海海事大学(课题组)开发的项目: ⬇️**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![group-message-center](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=group-message-center)](https://github.com/a645162/group-message-center)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![group-center](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=group-center)](https://github.com/a645162/group-center)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-notify](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-notify)](https://github.com/a645162/nvi-notify)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![web-gpu-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=web-gpu-dashboard)](https://github.com/a645162/web-gpu-dashboard)
 
@@ -249,8 +249,6 @@ Other                  20 hrs 26 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🚧 **目前正在开发的项目: ⬇️**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-go](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-go)](https://github.com/a645162/shmtu-cas-go)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GroupMsgCenter](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=GroupMsgCenter)](https://github.com/a645162/GroupMsgCenter)
 
 **🏫本科期间编写的开源项目: ⬇️**
 
