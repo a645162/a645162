@@ -210,11 +210,11 @@ Other                     23 hrs 34 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <sup>知乎的近期动态（点个 [Star](https://github.com/a645162/a645162) 将触发自动刷新）</sup>
 <!-- ZHIHU-POST-LIST:START -->
-- 🔭 [manjaro kde如何在两台分辨率不同的显示器上扩展桌面并各自保持各自的缩放比例？](http://www.zhihu.com/question/428086099?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3071055518) | Jun 12, 2023
-- 💂 [Windows Defender 安全中心 能否关闭？](http://www.zhihu.com/question/290677509?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3068809159) | Jun 11, 2023
-- 🌁 [python Matplotlib 生成 EPS 矢量图无法显示中文？](http://www.zhihu.com/question/23541723?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-890564176) | Nov 11, 2019
-- 🙉 [椭圆方程中离心率明明可以用b／a表示，为什么用c／a来表示？](http://www.zhihu.com/question/345832892?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-823202191) | Sep 14, 2019
-- 🥷 [怎么强行让电脑不能联网？](http://www.zhihu.com/question/344085028?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-814715179) | Sep 5, 2019<!-- ZHIHU-POST-LIST:END -->
+- 🔭 [怎样用Python实现对Xbox手柄的控制？](http://www.zhihu.com/question/371216417?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-9385693696) | Oct 19, 2024
+- 💂 [manjaro kde如何在两台分辨率不同的显示器上扩展桌面并各自保持各自的缩放比例？](http://www.zhihu.com/question/428086099?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3071055518) | Jun 12, 2023
+- 🌁 [Windows Defender 安全中心 能否关闭？](http://www.zhihu.com/question/290677509?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3068809159) | Jun 11, 2023
+- 🙉 [python Matplotlib 生成 EPS 矢量图无法显示中文？](http://www.zhihu.com/question/23541723?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-890564176) | Nov 11, 2019
+- 🥷 [椭圆方程中离心率明明可以用b／a表示，为什么用c／a来表示？](http://www.zhihu.com/question/345832892?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-823202191) | Sep 14, 2019<!-- ZHIHU-POST-LIST:END -->
 
 **欢迎诸位同学为SHMTU多多贡献项目！！！！！**
 
