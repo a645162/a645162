@@ -265,4 +265,6 @@ Other                     14 hrs 30 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![HomeWorkNewYearVideo](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=HomeWorkNewYearVideo)](https://github.com/a645162/HomeWorkNewYearVideo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)
 
+![Metrics](./github-metrics.svg)
+
 ![Repos I created](https://github-contrib-stats.vercel.app/a645162/created.svg)
