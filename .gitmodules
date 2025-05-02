@@ -1,3 +1,4 @@
+# git submodule add https://github.com/karminski/karminski.git Template/karminski
 [submodule "Template/karminski"]
 	path = Template/karminski
 	url = https://github.com/karminski/karminski.git
