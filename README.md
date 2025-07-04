@@ -143,7 +143,8 @@
 
 <code><img height="20" src="https://simpleicons.org/icons/c.svg" alt="C" title="C"></code>
 <code><img height="20" src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" title="C++"></code>
-<code><img height="20" src="https://simpleicons.org/icons/csharp.svg" alt="C#" title="C#"></code>
+<code><img height="20" src="https://simpleicons.org/icons/sharp.svg" alt="C#" title="C#"></code>
+<code><img height="20" src="https://simpleicons.org/icons/rust.svg" alt="Rust" title="Rust"></code>
 <code><img height="20" src="https://simpleicons.org/icons/python.svg" alt="Python" title="Python"></code>
 <code><img height="20" src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" title="Kotlin"></code>
 <code><img height="20" src="https://simpleicons.org/icons/json.svg" alt="JSON" title="JSON"></code>
@@ -161,7 +162,7 @@
 
 **IDE/Editor**
 
-<code><img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" title="VSCode"></code>
+<!-- <code><img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" title="VSCode"></code> -->
 <code><img height="20" src="https://simpleicons.org/icons/clion.svg" alt="CLion" title="CLion"></code>
 <code><img height="20" src="https://simpleicons.org/icons/pycharm.svg" alt="PyCharm" title="PyCharm"></code>
 <code><img height="20" src="https://simpleicons.org/icons/armkeil.svg" alt="ARM-Keil" title="ARM-Keil"></code>
@@ -169,7 +170,7 @@
 
 **Environments**
 
-<code><img height="20" src="https://simpleicons.org/icons/windows.svg" alt="Windows" title="Windows"></code>
+<!-- <code><img height="20" src="https://simpleicons.org/icons/windows.svg" alt="Windows" title="Windows"></code> -->
 <code><img height="20" src="https://simpleicons.org/icons/manjaro.svg" alt="Arch Linux" title="Manjaro"></code>
 <code><img height="20" src="https://simpleicons.org/icons/archlinux.svg" alt="Arch Linux" title="Arch Linux"></code>
 <code><img height="20" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu" title="Ubuntu"></code>
@@ -215,6 +216,20 @@ Other                  15 hrs 4 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 - 🙉 [Windows Defender 安全中心 能否关闭？](http://www.zhihu.com/question/290677509?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3068809159) | Jun 11, 2023
 - 🥷 [python Matplotlib 生成 EPS 矢量图无法显示中文？](http://www.zhihu.com/question/23541723?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-890564176) | Nov 11, 2019<!-- ZHIHU-POST-LIST:END -->
 
+**🚢🏫科研项目项目: ⬇️**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MaritimeTrack](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=MaritimeTrack)](https://github.com/a645162/MaritimeTrack)
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mot-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=mot-toolkit)](https://github.com/a645162/mot-toolkit) -->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![PicPuzzle](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=PicPuzzle)](https://github.com/a645162/PicPuzzle)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![DahuaCameraMaster](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=DahuaCameraMaster)](https://github.com/a645162/DahuaCameraMaster)
+
+<!-- https://github.com/a645162/mot-toolkit
+https://github.com/a645162/PicPuzzle
+https://github.com/a645162/MaritimeTrack
+https://github.com/a645162/DahuaCameraMaster -->
+
+
 **欢迎诸位同学为SHMTU多多贡献项目！！！！！**
 
 海狮的信息化程度很高，许多服务都是数字化的，
@@ -227,11 +242,12 @@ Other                  15 hrs 4 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-auth](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth)](https://github.com/a645162/shmtu-auth)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![group-center](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=group-center)](https://github.com/a645162/group-center)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-notify](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-notify)](https://github.com/a645162/nvi-notify)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![web-gpu-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=web-gpu-dashboard)](https://github.com/a645162/web-gpu-dashboard)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-notify](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-notify)](https://github.com/a645162/nvi-notify)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![group-center-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=group-center-dashboard)](https://github.com/a645162/group-center-dashboard)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![web-gpu-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=web-gpu-dashboard)](https://github.com/a645162/web-gpu-dashboard)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Terminal-Wails](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Terminal-Wails)](https://github.com/a645162/SHMTU-Terminal-Wails)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-go](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-go)](https://github.com/a645162/shmtu-cas-go)
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Terminal-Wails](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Terminal-Wails)](https://github.com/a645162/SHMTU-Terminal-Wails) -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-dotnet-lib](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-dotnet-lib)](https://github.com/a645162/shmtu-dotnet-lib)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-go](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-go)](https://github.com/a645162/shmtu-cas-go)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-ocr-server](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-ocr-server)](https://github.com/a645162/shmtu-cas-ocr-server)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-kotlin](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-kotlin)](https://github.com/a645162/shmtu-cas-kotlin)
 
@@ -239,17 +255,19 @@ Other                  15 hrs 4 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-ocr-demo-qt](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-ocr-demo-qt)](https://github.com/a645162/shmtu-cas-ocr-demo-qt)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-demo-android](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-demo-android)](https://github.com/a645162/shmtu-cas-demo-android)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Digital-SHMTU-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Digital-SHMTU-Tools)](https://github.com/a645162/Digital-SHMTU-Tools)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Beamer-Theme](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme)](https://github.com/a645162/SHMTU-Beamer-Theme)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Digital-SHMTU-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Digital-SHMTU-Tools)](https://github.com/a645162/Digital-SHMTU-Tools)
+
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Beamer-Theme](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme)](https://github.com/a645162/SHMTU-Beamer-Theme) -->
 
 **🚢🏫推荐上海海事大学本科生了解的项目: ⬇️**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![smu_course_election_helper](https://github-readme-stats.vercel.app/api/pin/?username=EricHongXDD&repo=smu_course_election_helper)](https://github.com/EricHongXDD/smu_course_election_helper)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Terminal-Wails](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Terminal-Wails)](https://github.com/a645162/SHMTU-Terminal-Wails)
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Terminal-Wails](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Terminal-Wails)](https://github.com/a645162/SHMTU-Terminal-Wails) -->
 
 🚧 **目前正在开发的项目: ⬇️**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-go](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-go)](https://github.com/a645162/shmtu-cas-go)
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shmtu-cas-go](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-go)](https://github.com/a645162/shmtu-cas-go) -->
 
 **🏫本科期间编写的开源项目: ⬇️**
 
@@ -261,7 +279,9 @@ Other                  15 hrs 4 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![QQChatConvertR](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=QQChatConvertR)](https://github.com/a645162/QQChatConvertR)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Digital-SHMTU-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Digital-SHMTU-Tools)](https://github.com/a645162/Digital-SHMTU-Tools)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Nvidia-Tesla-WDDM-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Nvidia-Tesla-WDDM-Tools)](https://github.com/a645162/Nvidia-Tesla-WDDM-Tools)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Beamer-Theme](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme)](https://github.com/a645162/SHMTU-Beamer-Theme)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Nvidia-Tesla-WDDM-Tools](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Nvidia-Tesla-WDDM-Tools)](https://github.com/a645162/Nvidia-Tesla-WDDM-Tools)
+
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SHMTU-Beamer-Theme](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme)](https://github.com/a645162/SHMTU-Beamer-Theme) -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![HomeWorkNewYearVideo](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=HomeWorkNewYearVideo)](https://github.com/a645162/HomeWorkNewYearVideo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![nvi-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control)](https://github.com/a645162/nvi-fan-control)
 
