@@ -7,7 +7,7 @@
 - 🌱 I'm currently pursuing a Master's degree in `Control Science and Engineering` at `Shanghai Maritime University`.
 - 🌱 Previously, I obtained a Bachelor's degree in `Applied Physics` from `Yanshan University`.
 - 💬 Ask me about `Embedded Develop`/`GUI Develop`/`Computer Simulation`
-- 📫 How to reach me: a645162@gmail.com
+- 📫 How to reach me: <a645162@gmail.com>
 
 希望跟大家一起多多交流。
 
@@ -137,8 +137,6 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162" width="350" height="400" title="Do what you like, and do it best!">
-
 <!-- **Languages** -->
 
 <!-- <code><img height="20" src="https://simpleicons.org/icons/c.svg" alt="C" title="C"></code>
@@ -177,8 +175,12 @@
 <code><img height="20" src="https://simpleicons.org/icons/apple.svg" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://simpleicons.org/icons/linux.svg" alt="Linux" title="Linux"></code> -->
 
-<br />
-<br />
+<!-- <br />
+<br /> -->
+
+<div>
+
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162" width="350" height="400" title="Most Used Languages">
 
 📊 **Last 365 days I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -202,6 +204,8 @@ Other                  15 hrs 4 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
+
+</div>
 
 <sup>CSDN的近期动态（点个 [Star](https://github.com/a645162/a645162) 将触发自动刷新）</sup>
 <!-- BLOG-POST-LIST:START -->
@@ -228,7 +232,6 @@ Other                  15 hrs 4 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 https://github.com/a645162/PicPuzzle
 https://github.com/a645162/MaritimeTrack
 https://github.com/a645162/DahuaCameraMaster -->
-
 
 **欢迎诸位同学为SHMTU多多贡献项目！！！！！**
 
