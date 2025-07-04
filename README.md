@@ -162,7 +162,6 @@
 
 **IDE/Editor**
 
-<!-- <code><img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" title="VSCode"></code> -->
 <code><img height="20" src="https://simpleicons.org/icons/clion.svg" alt="CLion" title="CLion"></code>
 <code><img height="20" src="https://simpleicons.org/icons/pycharm.svg" alt="PyCharm" title="PyCharm"></code>
 <code><img height="20" src="https://simpleicons.org/icons/armkeil.svg" alt="ARM-Keil" title="ARM-Keil"></code>
@@ -170,7 +169,6 @@
 
 **Environments**
 
-<!-- <code><img height="20" src="https://simpleicons.org/icons/windows.svg" alt="Windows" title="Windows"></code> -->
 <code><img height="20" src="https://simpleicons.org/icons/manjaro.svg" alt="Arch Linux" title="Manjaro"></code>
 <code><img height="20" src="https://simpleicons.org/icons/archlinux.svg" alt="Arch Linux" title="Arch Linux"></code>
 <code><img height="20" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu" title="Ubuntu"></code>
