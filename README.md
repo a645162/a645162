@@ -291,9 +291,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 ## 📊 年度语言分布
 
-<a href="https://wakatime.com/@a645162"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162&layout=compact&langs_count=8" width="330" alt="Most Used Languages"></a>
-
-**Last 365 days I Spent My Time On:**（右侧是公开仓库的代码量分布，和 WakaTime 的编辑器时长口径不同）
+**Last 365 days I Spent My Time On:**
 
 <!--START_SECTION:waka-year-->
 
@@ -311,7 +309,11 @@ Other                              74 hrs 45 mins        🟩🟨⬜⬜⬜⬜⬜
 
 <!--END_SECTION:waka-year-->
 
-<br clear="right">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162&layout=compact&langs_count=8" width="460" alt="Most Used Languages">
+  <br>
+  <sub>按公开仓库代码量统计，与上方 WakaTime 的编辑器时长口径不同</sub>
+</p>
 
 ## 📈 年度概览
 
