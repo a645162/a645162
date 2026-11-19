@@ -123,19 +123,23 @@ timeline
 ## 🏗 Image.Codec.Offload 架构
 
 ```mermaid
-flowchart LR
-    CLI["ico CLI"] --> Router
-    API["C API"] --> Router
-    Router["Router 路由层<br/>能力探测 · 失败回退 · 记录原因"] --> CUDA["CUDA<br/>nvJPEG · GPU LZW"]
-    Router --> OpenCL["OpenCL<br/>混合 JPEG · GPU LZW"]
-    Router --> Vulkan["Vulkan<br/>TIFF · PNG · JPEG"]
-    Router --> VPL["Intel oneVPL"]
-    Router -. 永远可用 .-> CPU["CPU 基线<br/>libtiff · libpng · libjpeg-turbo"]
-    CPU -. 像素级参照 .-> Metric["画质指标<br/>PSNR / SSIM"]
-    CUDA --> Metric
-    OpenCL --> Metric
-    Vulkan --> Metric
+graph LR
+    CLI[ico CLI] --> Router
+    API[C API] --> Router
+    Router[Router 路由层] --> CUDA[CUDA 后端]
+    Router --> OCL[OpenCL 后端]
+    Router --> VK[Vulkan 后端]
+    Router --> VPL[Intel oneVPL]
+    Router --> CPU[CPU 基线]
+    CUDA --> Metric[画质指标]
+    OCL --> Metric
+    VK --> Metric
+    CPU --> Metric
 ```
+
+- **Router**：按机器实际能力选择后端，失败自动回退，并把回退原因返回给调用方
+- **后端**：CUDA（nvJPEG / GPU LZW）、OpenCL、Vulkan、Intel oneVPL
+- **CPU 基线**：libtiff / libpng / libjpeg-turbo 永远可用，同时作为 PSNR / SSIM 的像素级参照
 
 ## 🐍 贡献图
 
