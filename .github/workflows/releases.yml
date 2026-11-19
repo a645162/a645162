@@ -1,0 +1,33 @@
+name: Recent Releases
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 1" # every Monday 03:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Update recent releases section
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_LOGIN: a645162
+        run: python3 .github/scripts/update_releases.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No release changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update recent releases"
+          git push

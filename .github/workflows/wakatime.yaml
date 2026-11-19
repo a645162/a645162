@@ -13,6 +13,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka-year
           SHOW_TITLE: true
           SHOW_TOTAL: true
           COMMIT_MESSAGE: Update Wakatime api stats

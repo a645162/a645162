@@ -1,6 +1,10 @@
 <div align="center">
 
-# 孔昊旻 · Haomin Kong
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8DD6,50:8E37D7,100:4B6CB7&height=190&section=header&text=Haomin%20Kong&fontSize=46&fontColor=ffffff&desc=Embedded%20%C2%B7%20GPU%20%2F%20Heterogeneous%20Computing%20%C2%B7%20Computer%20Vision&descSize=16&descAlignY=70" width="100%" alt="Haomin Kong" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=680&lines=GPU+Image+Codec+%2F+Heterogeneous+Computing;Maritime+Multi-Object+Tracking;Qt+%C2%B7+Embedded+%C2%B7+Computer+Vision;Build+it%2C+benchmark+it%2C+explain+the+fallback" alt="typing" />
+
+### 孔昊旻 · Haomin Kong
 
 **控制科学与工程 硕士在读** · 上海海事大学　｜　**应用物理学 学士** · 燕山大学
 
@@ -48,6 +52,15 @@
 - **QNodeGraphModern** — C++23 + Qt 6/QML 的可复用节点图库，宿主应用通过 CMake target 直接链接。
 - **SHMTU Terminal** — 上海海事大学校园终端聚合包，提供 CLI 入口与 Python SDK。
 
+## 🔬 研究方向
+
+| 方向 | 在做什么 | 相关项目 |
+| :--- | :--- | :--- |
+| **海事多目标跟踪** | 多场景、多环境、多任务的海事 MOT 数据与评测 | [MaritimeTrack](https://github.com/a645162/MaritimeTrack) · [mot-toolkit](https://github.com/a645162/mot-toolkit) |
+| **GPU 图像编解码** | 大图编解码卸载、后端路由与回退、画质指标对拍 | [ImageCodecOffload](https://github.com/a645162/ImageCodecOffload) |
+| **嵌入式与桌面 GUI** | C++/Qt、.NET/Avalonia、跨平台输入与设备控制 | [QNodeGraphModern](https://github.com/a645162/QNodeGraphModern) · [InputSimulatorCpp](https://github.com/a645162/InputSimulatorCpp) |
+| **校园信息化** | 统一认证、验证码识别、消息推送与看板 | [shmtu-auth](https://github.com/a645162/shmtu-auth) · [group-center](https://github.com/a645162/group-center) |
+
 ## 📦 最新项目
 
 | | |
@@ -55,12 +68,170 @@
 | <a href="https://github.com/a645162/ImageCodecOffload"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ImageCodecOffload" width="380" alt="ImageCodecOffload"></a> | <a href="https://github.com/a645162/QNodeGraphModern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=QNodeGraphModern&hide_border=false" width="380" alt="QNodeGraphModern"></a> |
 | <a href="https://github.com/a645162/EverythingSDK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=EverythingSDK" width="380" alt="EverythingSDK"></a> | <a href="https://github.com/a645162/shmtu-terminal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-terminal" width="380" alt="shmtu-terminal"></a> |
 
-## 🚢 科研项目
+## 🧩 项目详解
 
-| | |
-| :---: | :---: |
-| <a href="https://github.com/a645162/MaritimeTrack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=MaritimeTrack" width="380" alt="MaritimeTrack"></a> | <a href="https://github.com/a645162/DahuaCameraMaster"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=DahuaCameraMaster" width="380" alt="DahuaCameraMaster"></a> |
-| <a href="https://github.com/a645162/PicPuzzle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=PicPuzzle" width="380" alt="PicPuzzle"></a> | <a href="https://github.com/a645162/mot-toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=mot-toolkit" width="380" alt="mot-toolkit"></a> |
+### Image.Codec.Offload
+
+> 把 GB 级 BMP / TIFF / PNG 的编解码卸载到 GPU，而不是在 CPU 上硬扛。
+
+- **问题**：大图编解码在 CPU 上是瓶颈；不同机器上可用的硬件后端又完全不一样。
+- **做法**：CUDA / OpenCL / Vulkan / Intel oneVPL 四个后端，加一层路由：选择后端、失败自动回退，并把**每次回退的原因**返回给调用方；CPU 基线始终可用，同时充当像素级参照。
+- **验证**：`ico` CLI 提供 `backends / info / encode / decode / compare`，端到端测试覆盖往返、灰度保真、三后端对拍与 golden 指标。
+- **栈**：`C++23` `CMake` `CUDA` `nvJPEG` `OpenCL` `Vulkan` `oneVPL`
+
+### MaritimeTrack
+
+> 一个大规模、多场景、多环境、多任务的海事多目标跟踪数据集。
+
+- 面向海上场景的 MOT 数据与评测基准，覆盖不同环境与任务设置。
+- 相关的跟踪工具链与实验代码见 `mot-toolkit`。
+- **栈**：`Python` `Multi-Object Tracking` `Dataset`
+
+### QNodeGraphModern
+
+> C++23 + Qt 6/QML 的可复用节点图库，不是一个成品应用。
+
+- 图模型核心与 Qt 解耦，宿主应用通过 CMake target 直接链接。
+- 提供 QML 层与 examples，方便嵌入到自己的编辑器 / 工具里。
+- **栈**：`C++23` `Qt 6` `QML` `CMake`
+
+### SHMTU Terminal
+
+> 上海海事大学校园终端聚合包：CLI 入口 + Python SDK。
+
+- 聚合 CAS 登录、验证码识别、数据同步等子模块能力。
+- 同一套能力在 Python / Rust / Kotlin / C# 多端落地过（终端、桌面、Android）。
+- **栈**：`Python` `Rust` `Kotlin` `C#` `.NET`
+
+## 🧭 我的路线
+
+```mermaid
+timeline
+    title 2018 → 2026
+    2018 : 燕山大学 · 应用物理学
+    2021 : 校园网自动认证脚本
+         : MarkdownTools
+    2023 : 上海海事大学 · 控制科学与工程（硕士）
+         : SHMTU 统一认证 / 终端
+    2024 : 课题组消息中心 / GPU 看板
+    2025 : MaritimeTrack 海事多目标跟踪数据集
+         : DahuaCameraMaster
+    2026 : Image.Codec.Offload
+         : QNodeGraphModern
+```
+
+## 🏗 Image.Codec.Offload 架构
+
+```mermaid
+flowchart LR
+    CLI["ico CLI"] --> Router
+    API["C API"] --> Router
+    Router["Router 路由层<br/>能力探测 · 失败回退 · 记录原因"] --> CUDA["CUDA<br/>nvJPEG · GPU LZW"]
+    Router --> OpenCL["OpenCL<br/>混合 JPEG · GPU LZW"]
+    Router --> Vulkan["Vulkan<br/>TIFF · PNG · JPEG"]
+    Router --> VPL["Intel oneVPL"]
+    Router -. 永远可用 .-> CPU["CPU 基线<br/>libtiff · libpng · libjpeg-turbo"]
+    CPU -. 像素级参照 .-> Metric["画质指标<br/>PSNR / SSIM"]
+    CUDA --> Metric
+    OpenCL --> Metric
+    Vulkan --> Metric
+```
+
+## 🐍 贡献图
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a645162/a645162/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a645162/a645162/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/a645162/a645162/output/github-contribution-grid-snake.svg">
+</picture>
+
+## 🚀 最近发布
+
+<!--START_SECTION:releases-->
+- [v2.0.5](https://github.com/a645162/shmtu-cas-ocr-model/releases/tag/v2.0.5) · **shmtu-cas-ocr-model** · 2026-06-11
+- [v2.0.0](https://github.com/a645162/shmtu-cas-ocr-server/releases/tag/v2.0.0) · **shmtu-cas-ocr-server** · 2026-05-29
+- [v2.2.0](https://github.com/a645162/shmtu-auth/releases/tag/v2.2.0) · **shmtu-auth** · 2025-07-05
+- [v1.1.4](https://github.com/a645162/shmtu-cas-demo-android/releases/tag/v1.1.4) · **shmtu-cas-demo-android** · 2025-06-27
+- [v1.0.0](https://github.com/a645162/shmtu-cas-ocr-demo-qt/releases/tag/v1.0.0) · **shmtu-cas-ocr-demo-qt** · 2024-04-09
+- [v1.0.0](https://github.com/a645162/shmtu-cas-ocr-demo-windows/releases/tag/v1.0.0) · **shmtu-cas-ocr-demo-windows** · 2024-04-09
+<!--END_SECTION:releases-->
+
+## 📝 近期动态
+
+<sup>CSDN（点个 <a href="https://github.com/a645162/a645162">Star</a> 将触发自动刷新）</sup>
+
+<!-- BLOG-POST-LIST:START -->
+- 🔭 [Ubuntu 22.04 下安装最新版本的 Wine](https://blog.csdn.net/a645162/article/details/131099149)
+- 💂 [Android DND&lpar;Do Not Disturb&rpar; Access API的学习](https://blog.csdn.net/a645162/article/details/87471283)<!-- BLOG-POST-LIST:END -->
+
+<sup>知乎（点个 <a href="https://github.com/a645162/a645162">Star</a> 将触发自动刷新）</sup>
+
+<!-- ZHIHU-POST-LIST:START -->
+- 🔭 [所有手机品牌息屏听剧，为啥只有小米有?](http://www.zhihu.com/question/6292080759?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-1891560953226708368) | Apr 4, 2025
+- 💂 [怎样用Python实现对Xbox手柄的控制？](http://www.zhihu.com/question/371216417?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-9385693696) | Oct 19, 2024
+- 🌁 [manjaro kde如何在两台分辨率不同的显示器上扩展桌面并各自保持各自的缩放比例？](http://www.zhihu.com/question/428086099?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3071055518) | Jun 12, 2023
+- 🙉 [Windows Defender 安全中心 能否关闭？](http://www.zhihu.com/question/290677509?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3068809159) | Jun 11, 2023
+- 🥷 [python Matplotlib 生成 EPS 矢量图无法显示中文？](http://www.zhihu.com/question/23541723?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-890564176) | Nov 11, 2019<!-- ZHIHU-POST-LIST:END -->
+
+## 🧑‍💻 开发概览
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 📊 年度语言分布
+
+<a href="https://wakatime.com/@a645162"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162&layout=compact&langs_count=8" width="330" alt="Most Used Languages"></a>
+
+**Last 365 days I Spent My Time On:**（右侧是公开仓库的代码量分布，和 WakaTime 的编辑器时长口径不同）
+
+<!--START_SECTION:waka-year-->
+
+```txt
+From: 18 November 2025 - To: 18 November 2026
+
+Total Time: 1,088 hrs 10 mins
+
+C#                                 228 hrs 37 mins       🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.01 %
+C++                                167 hrs 37 mins       🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.40 %
+Markdown                           160 hrs 37 mins       🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.76 %
+Python                             157 hrs 12 mins       🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.45 %
+Other                              74 hrs 45 mins        🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.87 %
+```
+
+<!--END_SECTION:waka-year-->
+
+<br clear="right">
+
+## 📈 年度概览
+
+![Metrics](./github-metrics.svg)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a645162&theme=github" width="100%" alt="Profile Summary">
+</p>
+
+## 🧰 我在用
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11">
+  <img src="https://img.shields.io/badge/Windows_Server_2022-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server 2022">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux">
+  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white" alt="Manjaro">
+  <img src="https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" alt="GNOME">
+  <img src="https://img.shields.io/badge/KDE-1D99F3?style=flat-square&logo=kde&logoColor=white" alt="KDE">
+  <img src="https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white" alt="Deepin">
+  <img src="https://img.shields.io/badge/XFCE-2284F2?style=flat-square&logo=xfce&logoColor=white" alt="XFCE">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/MacBook_Pro_2018-111111?style=flat-square&logo=apple&logoColor=white" alt="MacBook Pro 2018">
+  <img src="https://img.shields.io/badge/iPad_Pro_2018-111111?style=flat-square&logo=apple&logoColor=white" alt="iPad Pro 2018">
+  <img src="https://img.shields.io/badge/iPhone_7_Plus-111111?style=flat-square&logo=apple&logoColor=white" alt="iPhone 7 Plus">
+  <img src="https://img.shields.io/badge/Redmi_K50_Ultra-FF6900?style=flat-square&logo=xiaomi&logoColor=white" alt="Redmi K50 Ultra">
+  <img src="https://img.shields.io/badge/LG_G8-A50034?style=flat-square&logo=lg&logoColor=white" alt="LG G8">
+</p>
 
 <details>
 <summary><b>🚢 硕士期间为上海海事大学（课题组）开发的项目（点击展开）</b></summary>
@@ -96,76 +267,10 @@
 
 </details>
 
-## 📝 近期动态
-
-<sup>CSDN（点个 <a href="https://github.com/a645162/a645162">Star</a> 将触发自动刷新）</sup>
-
-<!-- BLOG-POST-LIST:START -->
-- 🔭 [Ubuntu 22.04 下安装最新版本的 Wine](https://blog.csdn.net/a645162/article/details/131099149)
-- 💂 [Android DND&lpar;Do Not Disturb&rpar; Access API的学习](https://blog.csdn.net/a645162/article/details/87471283)<!-- BLOG-POST-LIST:END -->
-
-<sup>知乎（点个 <a href="https://github.com/a645162/a645162">Star</a> 将触发自动刷新）</sup>
-
-<!-- ZHIHU-POST-LIST:START -->
-- 🔭 [所有手机品牌息屏听剧，为啥只有小米有?](http://www.zhihu.com/question/6292080759?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-1891560953226708368) | Apr 4, 2025
-- 💂 [怎样用Python实现对Xbox手柄的控制？](http://www.zhihu.com/question/371216417?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-9385693696) | Oct 19, 2024
-- 🌁 [manjaro kde如何在两台分辨率不同的显示器上扩展桌面并各自保持各自的缩放比例？](http://www.zhihu.com/question/428086099?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3071055518) | Jun 12, 2023
-- 🙉 [Windows Defender 安全中心 能否关闭？](http://www.zhihu.com/question/290677509?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3068809159) | Jun 11, 2023
-- 🥷 [python Matplotlib 生成 EPS 矢量图无法显示中文？](http://www.zhihu.com/question/23541723?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-890564176) | Nov 11, 2019<!-- ZHIHU-POST-LIST:END -->
-
-## 📊 编码统计
-
-<a href="https://wakatime.com/@a645162"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162&layout=compact&langs_count=8" width="330" alt="Most Used Languages"></a>
-
-**Last 365 days I Spent My Time On:**（右侧是公开仓库的代码量分布，和 WakaTime 的编辑器时长口径不同）
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 18 November 2025 - To: 18 November 2026
-
-Total Time: 1,088 hrs 10 mins
-
-C#                                 228 hrs 37 mins       🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.01 %
-C++                                167 hrs 37 mins       🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.40 %
-Markdown                           160 hrs 37 mins       🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.76 %
-Python                             157 hrs 12 mins       🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.45 %
-Other                              74 hrs 45 mins        🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.87 %
-```
-
-<!--END_SECTION:waka-->
-
-<br clear="right">
-
-**📈 年度概览**
-
-![Metrics](./github-metrics.svg)
-
-## 🧰 我在用
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11">
-  <img src="https://img.shields.io/badge/Windows_Server_2022-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server 2022">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white" alt="Manjaro">
-  <img src="https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" alt="GNOME">
-  <img src="https://img.shields.io/badge/KDE-1D99F3?style=flat-square&logo=kde&logoColor=white" alt="KDE">
-  <img src="https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white" alt="Deepin">
-  <img src="https://img.shields.io/badge/XFCE-2284F2?style=flat-square&logo=xfce&logoColor=white" alt="XFCE">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/MacBook_Pro_2018-111111?style=flat-square&logo=apple&logoColor=white" alt="MacBook Pro 2018">
-  <img src="https://img.shields.io/badge/iPad_Pro_2018-111111?style=flat-square&logo=apple&logoColor=white" alt="iPad Pro 2018">
-  <img src="https://img.shields.io/badge/iPhone_7_Plus-111111?style=flat-square&logo=apple&logoColor=white" alt="iPhone 7 Plus">
-  <img src="https://img.shields.io/badge/Redmi_K50_Ultra-FF6900?style=flat-square&logo=xiaomi&logoColor=white" alt="Redmi K50 Ultra">
-  <img src="https://img.shields.io/badge/LG_G8-A50034?style=flat-square&logo=lg&logoColor=white" alt="LG G8">
-</p>
-
 <div align="center">
 
 ![Repos I created](https://github-contrib-stats.vercel.app/a645162/created.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B6CB7,50:8E37D7,100:6B8DD6&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
