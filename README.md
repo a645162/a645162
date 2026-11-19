@@ -108,16 +108,16 @@
 ```mermaid
 timeline
     title 2018 → 2026
-    2018 : 燕山大学 · 应用物理学
-    2021 : 校园网自动认证脚本
-         : MarkdownTools
-    2023 : 上海海事大学 · 控制科学与工程（硕士）
-         : SHMTU 统一认证 / 终端
-    2024 : 课题组消息中心 / GPU 看板
+    2018 : 燕山大学 · 应用物理学（本科）
+    2021 : 校园网自动认证 / ysuauth
+    2022 : MarkdownTools
+    2023.09 : 上海海事大学 · 控制科学与工程（硕士）
+    2024 : SHMTU 统一认证 / 终端 / 课题组看板
     2025 : MaritimeTrack 海事多目标跟踪数据集
          : DahuaCameraMaster
     2026 : Image.Codec.Offload
          : QNodeGraphModern
+         : EverythingSDK
 ```
 
 ## 🏗 Image.Codec.Offload 架构
@@ -356,7 +356,7 @@ Other                              74 hrs 45 mins        🟩🟨⬜⬜⬜⬜⬜
 | | |
 | :---: | :---: |
 | <a href="https://github.com/a645162/shmtu-auth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-auth" width="380" alt="shmtu-auth"></a> | <a href="https://github.com/a645162/group-center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=group-center" width="380" alt="group-center"></a> |
-| <a href="https://github.com/a645162/nvi-notify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-notify" width="380" alt="nvi-notify"></a> | <a href="https://github.com/a645162/nvi-fan-control"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control" width="380" alt="nvi-fan-control"></a> |
+| <a href="https://github.com/a645162/nvi-notify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-notify" width="380" alt="nvi-notify"></a> | <a href="https://github.com/a645162/group-center-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=group-center-client" width="380" alt="group-center-client"></a> |
 | <a href="https://github.com/a645162/group-center-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=group-center-dashboard" width="380" alt="group-center-dashboard"></a> | <a href="https://github.com/a645162/web-gpu-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=web-gpu-dashboard" width="380" alt="web-gpu-dashboard"></a> |
 | <a href="https://github.com/a645162/shmtu-dotnet-lib"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-dotnet-lib" width="380" alt="shmtu-dotnet-lib"></a> | <a href="https://github.com/a645162/shmtu-cas-go"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-go" width="380" alt="shmtu-cas-go"></a> |
 | <a href="https://github.com/a645162/shmtu-cas-ocr-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-ocr-server" width="380" alt="shmtu-cas-ocr-server"></a> | <a href="https://github.com/a645162/shmtu-cas-kotlin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-cas-kotlin" width="380" alt="shmtu-cas-kotlin"></a> |
@@ -367,16 +367,27 @@ Other                              74 hrs 45 mins        🟩🟨⬜⬜⬜⬜⬜
 </details>
 
 <details>
-<summary><b>🏫 本科期间 & 其他开源项目（点击展开）</b></summary>
+<summary><b>🏫 本科期间（2018 – 2023.06）的开源项目（点击展开）</b></summary>
 
 <br>
 
 | | |
 | :---: | :---: |
-| <a href="https://github.com/a645162/ysuauth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ysuauth" width="380" alt="ysuauth"></a> | <a href="https://github.com/a645162/KDEHighDPI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=KDEHighDPI" width="380" alt="KDEHighDPI"></a> |
-| <a href="https://github.com/a645162/MarkdownTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=MarkdownTools" width="380" alt="MarkdownTools"></a> | <a href="https://github.com/a645162/QQChatConvertR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=QQChatConvertR" width="380" alt="QQChatConvertR"></a> |
-| <a href="https://github.com/a645162/Nvidia-Tesla-WDDM-Tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Nvidia-Tesla-WDDM-Tools" width="380" alt="Nvidia-Tesla-WDDM-Tools"></a> | <a href="https://github.com/a645162/HomeWorkNewYearVideo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=HomeWorkNewYearVideo" width="380" alt="HomeWorkNewYearVideo"></a> |
-| <a href="https://github.com/a645162/SHMTU-Beamer-Theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme" width="380" alt="SHMTU-Beamer-Theme"></a> | <a href="https://github.com/a645162/SHMTU-CV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-CV" width="380" alt="SHMTU-CV"></a> |
+| <a href="https://github.com/a645162/ysuauth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ysuauth" width="380" alt="ysuauth"></a> | <a href="https://github.com/a645162/YsuAuthCore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=YsuAuthCore" width="380" alt="YsuAuthCore"></a> |
+| <a href="https://github.com/a645162/KDEHighDPI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=KDEHighDPI" width="380" alt="KDEHighDPI"></a> | <a href="https://github.com/a645162/MarkdownTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=MarkdownTools" width="380" alt="MarkdownTools"></a> |
+
+</details>
+
+<details>
+<summary><b>🎓 硕士期间（2023.09 至今）的其他开源项目（点击展开）</b></summary>
+
+<br>
+
+| | |
+| :---: | :---: |
+| <a href="https://github.com/a645162/QQChatConvertR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=QQChatConvertR" width="380" alt="QQChatConvertR"></a> | <a href="https://github.com/a645162/Nvidia-Tesla-WDDM-Tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=Nvidia-Tesla-WDDM-Tools" width="380" alt="Nvidia-Tesla-WDDM-Tools"></a> |
+| <a href="https://github.com/a645162/HomeWorkNewYearVideo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=HomeWorkNewYearVideo" width="380" alt="HomeWorkNewYearVideo"></a> | <a href="https://github.com/a645162/SHMTU-Beamer-Theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-Beamer-Theme" width="380" alt="SHMTU-Beamer-Theme"></a> |
+| <a href="https://github.com/a645162/SHMTU-CV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=SHMTU-CV" width="380" alt="SHMTU-CV"></a> | <a href="https://github.com/a645162/nvi-fan-control"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=nvi-fan-control" width="380" alt="nvi-fan-control"></a> |
 
 </details>
 
