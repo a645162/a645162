@@ -52,7 +52,7 @@
 
 | | |
 | :---: | :---: |
-| <a href="https://github.com/a645162/ImageCodecOffload"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ImageCodecOffload" width="380" alt="ImageCodecOffload"></a> | <a href="https://github.com/a645162/QNodeGraphModern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=QNodeGraphModern" width="380" alt="QNodeGraphModern"></a> |
+| <a href="https://github.com/a645162/ImageCodecOffload"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ImageCodecOffload" width="380" alt="ImageCodecOffload"></a> | <a href="https://github.com/a645162/QNodeGraphModern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=QNodeGraphModern&hide_border=false" width="380" alt="QNodeGraphModern"></a> |
 | <a href="https://github.com/a645162/EverythingSDK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=EverythingSDK" width="380" alt="EverythingSDK"></a> | <a href="https://github.com/a645162/shmtu-terminal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-terminal" width="380" alt="shmtu-terminal"></a> |
 
 ## 🚢 科研项目
