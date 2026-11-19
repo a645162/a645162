@@ -117,20 +117,9 @@
 
 ## 🏗 Image.Codec.Offload 架构
 
-```mermaid
-graph LR
-    CLI[ico CLI] --> Router[Router 路由层]
-    API[C API] --> Router
-    Router --> CUDA[CUDA 后端]
-    Router --> OCL[OpenCL 后端]
-    Router --> VK[Vulkan 后端]
-    Router --> VPL[Intel oneVPL]
-    Router --> CPU[CPU 基线]
-    CUDA --> Metric[画质指标]
-    OCL --> Metric
-    VK --> Metric
-    CPU --> Metric
-```
+<p align="center">
+  <img src="assets/image-codec-architecture.svg" width="100%" alt="Image.Codec.Offload 架构：ico CLI / C API → Router 路由层 → CUDA / OpenCL / Vulkan / Intel oneVPL / CPU 基线 → 画质指标">
+</p>
 
 - **Router**：按机器实际能力选择后端，失败自动回退，并把回退原因返回给调用方
 - **后端**：CUDA（nvJPEG / GPU LZW）、OpenCL、Vulkan、Intel oneVPL

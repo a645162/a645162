@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-label="Image.Codec.Offload architecture">
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#57606a"/>
+  </marker>
+</defs>
+<rect x="1" y="1" width="998" height="438" rx="12" fill="#ffffff" stroke="#d8dee4"/>
+<rect x="30" y="110" width="130" height="48" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="95.0" y="139.0" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="600" fill="#24292f">ico CLI</text>
+<rect x="30" y="210" width="130" height="48" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="95.0" y="239.0" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="600" fill="#24292f">C API</text>
+<rect x="240" y="145" width="230" height="96" rx="8" fill="#ddf4ff" stroke="#54aeff" stroke-width="1.5"/>
+<text x="355.0" y="187.0" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="600" fill="#24292f">Router 路由层</text>
+<text x="355.0" y="208.0" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#57606a">能力探测 · 失败回退 · 记录原因</text>
+<rect x="580" y="30" width="160" height="46" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="660.0" y="58.0" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="600" fill="#24292f">CUDA 后端</text>
+<rect x="580" y="92" width="160" height="46" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="660.0" y="120.0" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="600" fill="#24292f">OpenCL 后端</text>
+<rect x="580" y="154" width="160" height="46" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="660.0" y="182.0" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="600" fill="#24292f">Vulkan 后端</text>
+<rect x="580" y="216" width="160" height="46" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="660.0" y="244.0" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="600" fill="#24292f">Intel oneVPL</text>
+<rect x="580" y="320" width="160" height="46" rx="8" fill="#fff8c5" stroke="#d4a72c" stroke-width="1.5"/>
+<text x="660.0" y="337.0" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="600" fill="#24292f">CPU 基线</text>
+<text x="660.0" y="358.0" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#57606a">永远可用</text>
+<rect x="830" y="150" width="140" height="80" rx="8" fill="#dafbe1" stroke="#4ac26b" stroke-width="1.5"/>
+<text x="900.0" y="184.0" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="600" fill="#24292f">画质指标</text>
+<text x="900.0" y="205.0" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#57606a">PSNR / SSIM</text>
+<path d="M160,134 C200.0,134 200.0,180 240,180" fill="none" stroke="#57606a" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M160,234 C200.0,234 200.0,205 240,205" fill="none" stroke="#57606a" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M470,193 C525.0,193 525.0,53 580,53" fill="none" stroke="#57606a" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M470,193 C525.0,193 525.0,115 580,115" fill="none" stroke="#57606a" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M470,193 C525.0,193 525.0,177 580,177" fill="none" stroke="#57606a" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M470,193 C525.0,193 525.0,239 580,239" fill="none" stroke="#57606a" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M470,210 C525.0,210 525.0,343 580,343" fill="none" stroke="#9a6700" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M740,53 C785.0,53 785.0,178 830,178" fill="none" stroke="#57606a" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M740,115 C785.0,115 785.0,178 830,178" fill="none" stroke="#57606a" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M740,177 C785.0,177 785.0,178 830,178" fill="none" stroke="#57606a" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M740,239 C785.0,239 785.0,178 830,178" fill="none" stroke="#57606a" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M740,343 C785.0,343 785.0,202 830,202" fill="none" stroke="#9a6700" stroke-width="1.6" marker-end="url(#arrow)"/>
+</svg>
