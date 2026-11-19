@@ -22,5 +22,3 @@ jobs:
           SHOW_MASKED_TIME: true
           SHOW_TIME: true
           STOP_AT_OTHER: true
-          name: Waka Readme
-          
