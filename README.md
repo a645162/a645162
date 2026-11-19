@@ -111,7 +111,7 @@ timeline
     2018 : 燕山大学 · 应用物理学（本科）
     2021 : 校园网自动认证 / ysuauth
     2022 : MarkdownTools
-    2023.09 : 上海海事大学 · 控制科学与工程（硕士）
+    2023 : 9 月入学 · 上海海事大学 控制科学与工程（硕士）
     2024 : SHMTU 统一认证 / 终端 / 课题组看板
     2025 : MaritimeTrack 海事多目标跟踪数据集
          : DahuaCameraMaster
