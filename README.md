@@ -20,6 +20,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+
+<br>
+
 <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
@@ -27,7 +30,6 @@
 <img src="https://img.shields.io/badge/OpenCL-000000?style=flat-square&logo=khronosgroup&logoColor=white" alt="OpenCL">
 <img src="https://img.shields.io/badge/Vulkan-A41E22?style=flat-square&logo=vulkan&logoColor=white" alt="Vulkan">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 
 <br>
 
@@ -115,7 +117,7 @@
 
 <a href="https://wakatime.com/@a645162"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a645162&layout=compact&langs_count=8" width="330" alt="Most Used Languages"></a>
 
-**Last 365 days I Spent My Time On:**
+**Last 365 days I Spent My Time On:**（右侧是公开仓库的代码量分布，和 WakaTime 的编辑器时长口径不同）
 
 <!--START_SECTION:waka-->
 
