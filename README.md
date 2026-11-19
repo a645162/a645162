@@ -176,6 +176,19 @@ flowchart LR
 ## 🧑‍💻 开发概览
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 18 November 2025 - To: 18 November 2026
+
+Total Time: 1,088 hrs 10 mins
+
+C#                                 228 hrs 37 mins       🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.01 %
+C++                                167 hrs 37 mins       🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.40 %
+Markdown                           160 hrs 37 mins       🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.76 %
+Python                             157 hrs 12 mins       🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.45 %
+Other                              74 hrs 45 mins        🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.87 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 📊 年度语言分布
