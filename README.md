@@ -124,9 +124,9 @@ timeline
 
 ```mermaid
 graph LR
-    CLI[ico CLI] --> Router
+    CLI[ico CLI] --> Router[Router 路由层]
     API[C API] --> Router
-    Router[Router 路由层] --> CUDA[CUDA 后端]
+    Router --> CUDA[CUDA 后端]
     Router --> OCL[OpenCL 后端]
     Router --> VK[Vulkan 后端]
     Router --> VPL[Intel oneVPL]
