@@ -105,20 +105,15 @@
 
 ## 🧭 我的路线
 
-```mermaid
-timeline
-    title 2018 → 2026
-    2018 : 燕山大学 · 应用物理学（本科）
-    2021 : 校园网自动认证 / ysuauth
-    2022 : MarkdownTools
-    2023 : 9 月入学 · 上海海事大学 控制科学与工程（硕士）
-    2024 : SHMTU 统一认证 / 终端 / 课题组看板
-    2025 : MaritimeTrack 海事多目标跟踪数据集
-         : DahuaCameraMaster
-    2026 : Image.Codec.Offload
-         : QNodeGraphModern
-         : EverythingSDK
-```
+| 时间 | 阶段 | 主要事情 |
+| :--- | :--- | :--- |
+| 2018.09 | 燕山大学 · 应用物理学（本科） | 开始本科学习 |
+| 2021 | 校园网自动认证 | [ysuauth](https://github.com/a645162/ysuauth) / [YsuAuthCore](https://github.com/a645162/YsuAuthCore) |
+| 2022 | Markdown 工具 | [MarkdownTools](https://github.com/a645162/MarkdownTools) |
+| 2023.09 | 上海海事大学 · 控制科学与工程（硕士） | 入学 |
+| 2024 | SHMTU 系列 | 统一认证 / 终端 / 课题组看板 |
+| 2025 | 科研 | [MaritimeTrack](https://github.com/a645162/MaritimeTrack) / [DahuaCameraMaster](https://github.com/a645162/DahuaCameraMaster) |
+| 2026 | 异构计算与工具 | [Image.Codec.Offload](https://github.com/a645162/ImageCodecOffload) / [QNodeGraphModern](https://github.com/a645162/QNodeGraphModern) / [EverythingSDK](https://github.com/a645162/EverythingSDK) |
 
 ## 🏗 Image.Codec.Offload 架构
 
