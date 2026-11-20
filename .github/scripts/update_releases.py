@@ -12,11 +12,13 @@ import json
 import os
 import sys
 import urllib.request
+from datetime import datetime, timedelta, timezone
 
 README = "README.md"
 START = "<!--START_SECTION:releases-->"
 END = "<!--END_SECTION:releases-->"
 LIMIT = 6
+MONTHS = 18
 
 QUERY = """
 query($login: String!) {
@@ -77,12 +79,18 @@ def collect(data: dict) -> list[tuple[str, str, str, str]]:
                 )
             )
     entries.sort(reverse=True)
-    return entries[:LIMIT]
+    cutoff = datetime.now(timezone.utc) - timedelta(days=MONTHS * 30)
+    recent = [
+        entry
+        for entry in entries
+        if datetime.fromisoformat(entry[0].replace("Z", "+00:00")) >= cutoff
+    ]
+    return recent[:LIMIT]
 
 
 def render(entries: list[tuple[str, str, str, str]]) -> str:
     if not entries:
-        return "- 暂无 release"
+        return f"- 近 {MONTHS} 个月暂无 release"
     lines = []
     for published, repo, name, url in entries:
         short_repo = repo.split("/", 1)[1]

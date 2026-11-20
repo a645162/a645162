@@ -6,6 +6,10 @@ on:
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest

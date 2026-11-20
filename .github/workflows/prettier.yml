@@ -5,7 +5,11 @@ on:
   pull_request:
   push:
     branches:
-    - master
+    - main
+
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
 
 jobs:
   prettier:

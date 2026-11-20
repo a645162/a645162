@@ -9,6 +9,10 @@ on:
     types: [special_repository]
   workflow_dispatch:
 
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
 permissions:
   contents: write # To write the generated contents to the readme
 

@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "30 22 * * *" # 30 min after the yearly stats, avoids commit races
 
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
 permissions:
   contents: write
 

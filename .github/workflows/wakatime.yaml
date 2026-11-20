@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "0 22 * * *" # runs at every 22PM UTC(2AM Beijing)
 
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     name: WakaReadme DevMetrics

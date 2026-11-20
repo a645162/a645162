@@ -22,13 +22,16 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
 
 <br>
 
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
 <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+
+<br>
+
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA">
 <img src="https://img.shields.io/badge/OpenCL-000000?style=flat-square&logo=khronosgroup&logoColor=white" alt="OpenCL">
@@ -54,19 +57,40 @@
 
 ## 🔬 研究方向
 
-| 方向 | 在做什么 | 相关项目 |
-| :--- | :--- | :--- |
-| **海事多目标跟踪** | 多场景、多环境、多任务的海事 MOT 数据与评测 | [MaritimeTrack](https://github.com/a645162/MaritimeTrack) · [mot-toolkit](https://github.com/a645162/mot-toolkit) |
-| **GPU 图像编解码** | 大图编解码卸载、后端路由与回退、画质指标对拍 | [ImageCodecOffload](https://github.com/a645162/ImageCodecOffload) |
-| **嵌入式与桌面 GUI** | C++/Qt、.NET/Avalonia、跨平台输入与设备控制 | [QNodeGraphModern](https://github.com/a645162/QNodeGraphModern) · [InputSimulatorCpp](https://github.com/a645162/InputSimulatorCpp) |
-| **校园信息化** | 统一认证、验证码识别、消息推送与看板 | [shmtu-auth](https://github.com/a645162/shmtu-auth) · [group-center](https://github.com/a645162/group-center) |
+- **海事多目标跟踪** — 多场景、多环境、多任务的海事 MOT 数据与评测 · [MaritimeTrack](https://github.com/a645162/MaritimeTrack) · [mot-toolkit](https://github.com/a645162/mot-toolkit)
+- **GPU 图像编解码** — 大图编解码卸载、后端路由与回退、画质指标对拍 · [ImageCodecOffload](https://github.com/a645162/ImageCodecOffload)
+- **嵌入式与桌面 GUI** — C++/Qt、.NET/Avalonia、跨平台输入与设备控制 · [QNodeGraphModern](https://github.com/a645162/QNodeGraphModern) · [InputSimulatorCpp](https://github.com/a645162/InputSimulatorCpp)
+- **校园信息化** — 统一认证、验证码识别、消息推送与看板 · [shmtu-auth](https://github.com/a645162/shmtu-auth) · [group-center](https://github.com/a645162/group-center)
 
 ## 📦 最新项目
 
-| | |
-| :---: | :---: |
-| <a href="https://github.com/a645162/ImageCodecOffload"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ImageCodecOffload" width="380" alt="ImageCodecOffload"></a> | <a href="https://github.com/a645162/QNodeGraphModern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=QNodeGraphModern&hide_border=false" width="380" alt="QNodeGraphModern"></a> |
-| <a href="https://github.com/a645162/EverythingSDK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=EverythingSDK" width="380" alt="EverythingSDK"></a> | <a href="https://github.com/a645162/shmtu-terminal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-terminal" width="380" alt="shmtu-terminal"></a> |
+<p align="center">
+  <a href="https://github.com/a645162/ImageCodecOffload"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ImageCodecOffload" width="480" alt="ImageCodecOffload"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/a645162/QNodeGraphModern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=QNodeGraphModern&hide_border=false" width="480" alt="QNodeGraphModern"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/a645162/EverythingSDK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=EverythingSDK" width="480" alt="EverythingSDK"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/a645162/shmtu-terminal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-terminal" width="480" alt="shmtu-terminal"></a>
+</p>
+
+## 🚢 科研项目
+
+<p align="center">
+  <a href="https://github.com/a645162/MaritimeTrack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=MaritimeTrack" width="480" alt="MaritimeTrack"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/a645162/DahuaCameraMaster"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=DahuaCameraMaster" width="480" alt="DahuaCameraMaster"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/a645162/PicPuzzle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=PicPuzzle" width="480" alt="PicPuzzle"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/a645162/mot-toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=mot-toolkit" width="480" alt="mot-toolkit"></a>
+</p>
 
 ## 🧩 项目详解
 
@@ -140,8 +164,6 @@
 - [v2.0.0](https://github.com/a645162/shmtu-cas-ocr-server/releases/tag/v2.0.0) · **shmtu-cas-ocr-server** · 2026-05-29
 - [v2.2.0](https://github.com/a645162/shmtu-auth/releases/tag/v2.2.0) · **shmtu-auth** · 2025-07-05
 - [v1.1.4](https://github.com/a645162/shmtu-cas-demo-android/releases/tag/v1.1.4) · **shmtu-cas-demo-android** · 2025-06-27
-- [v1.0.0](https://github.com/a645162/shmtu-cas-ocr-demo-qt/releases/tag/v1.0.0) · **shmtu-cas-ocr-demo-qt** · 2024-04-09
-- [v1.0.0](https://github.com/a645162/shmtu-cas-ocr-demo-windows/releases/tag/v1.0.0) · **shmtu-cas-ocr-demo-windows** · 2024-04-09
 <!--END_SECTION:releases-->
 
 ## 📝 近期动态
