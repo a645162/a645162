@@ -65,31 +65,23 @@
 ## 📦 最新项目
 
 <p align="center">
-  <a href="https://github.com/a645162/ImageCodecOffload"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ImageCodecOffload" width="480" alt="ImageCodecOffload"></a>
+  <a href="https://github.com/a645162/ImageCodecOffload"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=ImageCodecOffload&hide_border=false" width="380" alt="ImageCodecOffload"></a>
+  <a href="https://github.com/a645162/QNodeGraphModern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=QNodeGraphModern&hide_border=false" width="380" alt="QNodeGraphModern"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/a645162/QNodeGraphModern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=QNodeGraphModern&hide_border=false" width="480" alt="QNodeGraphModern"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/a645162/EverythingSDK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=EverythingSDK" width="480" alt="EverythingSDK"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/a645162/shmtu-terminal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-terminal" width="480" alt="shmtu-terminal"></a>
+  <a href="https://github.com/a645162/EverythingSDK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=EverythingSDK&hide_border=false" width="380" alt="EverythingSDK"></a>
+  <a href="https://github.com/a645162/shmtu-terminal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=shmtu-terminal" width="380" alt="shmtu-terminal"></a>
 </p>
 
 ## 🚢 科研项目
 
 <p align="center">
-  <a href="https://github.com/a645162/MaritimeTrack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=MaritimeTrack" width="480" alt="MaritimeTrack"></a>
+  <a href="https://github.com/a645162/MaritimeTrack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=MaritimeTrack" width="380" alt="MaritimeTrack"></a>
+  <a href="https://github.com/a645162/DahuaCameraMaster"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=DahuaCameraMaster" width="380" alt="DahuaCameraMaster"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/a645162/DahuaCameraMaster"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=DahuaCameraMaster" width="480" alt="DahuaCameraMaster"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/a645162/PicPuzzle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=PicPuzzle" width="480" alt="PicPuzzle"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/a645162/mot-toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=mot-toolkit" width="480" alt="mot-toolkit"></a>
+  <a href="https://github.com/a645162/PicPuzzle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=PicPuzzle" width="380" alt="PicPuzzle"></a>
+  <a href="https://github.com/a645162/mot-toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=a645162&repo=mot-toolkit" width="380" alt="mot-toolkit"></a>
 </p>
 
 ## 🧩 项目详解
