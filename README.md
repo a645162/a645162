@@ -178,19 +178,111 @@
 ## 🧑‍💻 开发概览
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C007%20hrs%2013%20mins-blue?style=flat)
 
-```txt
-From: 20 November 2025 - To: 20 November 2026
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-899%20hrs%2036%20mins-blue?style=flat)
 
-Total Time: 1,106 hrs 48 mins
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-C#                                 230 hrs 53 mins       🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.86 %
-C++                                170 hrs 1 min         🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.36 %
-Python                             163 hrs 51 mins       🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.80 %
-Markdown                           163 hrs 47 mins       🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.80 %
-Other                              75 hrs 38 mins        🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.83 %
+**🐱 My GitHub Data** 
+
+> 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,315 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 151 Public Repositories 
+ > 
+> 🔑 63 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                978 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+🌆 Daytime                3556 commits        ██████████░░░░░░░░░░░░░░░   38.88 % 
+🌃 Evening                3382 commits        █████████░░░░░░░░░░░░░░░░   36.97 % 
+🌙 Night                  1231 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Tuesday                  1375 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Wednesday                1125 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Thursday                 1622 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Friday                   1277 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Saturday                 1282 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Sunday                   1295 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   13 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+C#                       8 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Markdown                 6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+C++                      4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Other                    3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+
+🔥 Editors: 
+Opencode Cli             27 hrs 32 mins      ███████████████░░░░░░░░░░   59.07 % 
+VS Code                  17 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   37.08 % 
+OpenCode                 1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+
+🐱‍💻 Projects: 
+BEIM.Base.Qt.BaseWidget  14 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   31.35 % 
+BEIM.AlgorithmHost       7 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+BEIM.SwissKnife          6 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+SHYY                     3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+ImageViewerQt            2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+
+💻 Operating System: 
+Linux                    25 hrs 26 mins      ██████████████░░░░░░░░░░░   54.57 % 
+Windows                  21 hrs 10 mins      ███████████░░░░░░░░░░░░░░   45.43 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 42 hrs 15 mins (90.65%)
+
+✍️ 115,152 lines written by AI, 425 lines written by hand (99.63% AI-written)
+
+🔤 38,779,381 Input Tokens, 7,923,671 Output Tokens
+
+💵 $9320.62 Estimated AI Cost This Week
+
+🧠 73 AI Sessions, 642 AI Prompts
+
+DeepSeek                 117,261 lines       █████████████████████████   100.00 % 
+M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.63% of written lines came from AI
+📝 Concise Prompter — average 357 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.6% of changed lines were hand-edited
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   54 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+C++                      16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+C#                       12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Kotlin                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+```
+
+
+
+
+ Last Updated on 21/11/2026 03:26:49 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 年度语言分布
